@@ -1,0 +1,76 @@
+{
+  "statusCode": 200,
+  "message": "demo",
+  "data": [
+    {
+      "id": 6079166,
+      "name": "Bilwa Gowda",
+      "email": "gowda_bilwa@cummerata.example",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 6079164,
+      "name": "Adinath Khan",
+      "email": "adinath_khan@lowe.test",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 6079163,
+      "name": "Dipali Kocchar",
+      "email": "kocchar_dipali@dubuque.test",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 6079162,
+      "name": "Chitraksh Johar Ret.",
+      "email": "chitraksh_ret_johar@muller.example",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 6079161,
+      "name": "Lakshmi Dutta",
+      "email": "lakshmi_dutta@becker.test",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 6079160,
+      "name": "Gatik Bandopadhyay",
+      "email": "gatik_bandopadhyay@bosco.test",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 6079158,
+      "name": "Paramartha Jain II",
+      "email": "paramartha_ii_jain@jenkins-heaney.test",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 6079157,
+      "name": "Jahnu Bandopadhyay",
+      "email": "jahnu_bandopadhyay@hansen.example",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 6079156,
+      "name": "Chinmayanand Kocchar",
+      "email": "chinmayanand_kocchar@considine.test",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 6079155,
+      "name": "Miss Gobinda Patil",
+      "email": "miss_gobinda_patil@armstrong.example",
+      "gender": "female",
+      "status": "active"
+    }
+  ]
+}
